@@ -4,7 +4,7 @@ Bem-vindo ao repositório do meu site-currículo, um projeto desenvolvido como p
 
 ## Visualização
 
-Você pode visualizar o site online acessando [maxhearts.github.io](https://maxhearts.github.io).
+Você pode visualizar o site online acessando [maxheartstech.github.io](https://maxheartstech.github.io).
 
 ## Screenshots
 
