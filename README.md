@@ -4,7 +4,7 @@ Bem-vindo ao repositório do meu site-currículo, um projeto desenvolvido como p
 
 ## Visualização
 
-Você pode visualizar o site online acessando [maxheartstech.github.io](https://maxheartstech.github.io).
+Você pode visualizar o site online acessando [maxineathos.github.io](https://maxineathos.github.io).
 
 ## Screenshots
 
@@ -38,8 +38,8 @@ Este projeto utiliza as seguintes tecnologias:
 
 Para mais informações sobre o projeto e atualizações, visite os seguintes links:
 
-- [LinkedIn](https://linkedin.com/in/maxheartstech)
-- [GitHub](https://github.com/maxheartstech)
+- [LinkedIn](https://www.linkedin.com/in/maxine-athos-82036b376)
+- [GitHub](https://github.com/maxineathos)
 
 ## Contato
 
